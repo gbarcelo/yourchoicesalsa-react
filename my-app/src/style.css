@@ -1,0 +1,67 @@
+.topmenu {
+  background-color: #fff;
+  transition: all 0.1s ease;
+  box-shadow: none;
+  border: none;
+}
+
+item {
+  color: #939393;
+}
+
+.menuimg {
+  object-fit: scale-down;
+  margin-top: 19px;
+  margin-bottom: 19px;
+  transition: all 0.1s ease;
+}
+
+.headimg {
+  /*margin-top: 75px;*/
+  background: url('http://www.hawaiisalsa101.com/wp-content/uploads/2015/06/image5.jpg') no-repeat center top;
+  background-size: cover;
+  height: 625px;
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #444444;
+  font-size: 38px;
+  font-weight: 400;
+}
+
+h2 {
+  margin-bottom: 30px;
+  color: #444444;
+  font-weight: 400;
+}
+
+.mainbody {
+  margin: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #7f7f7f;
+  align-self: center;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.altformat {
+  /*font-style: italic;*/
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.footer1-background {
+  background-color: #1a1a1a;
+  height: 60px;
+}
+
+.footer2-background {
+  background-color: #222222;
+  padding: 20px;
+  color: #666666;
+}
